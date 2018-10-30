@@ -101,7 +101,7 @@ padding-top: 58px;
 }
 
 .text-container h1 {
-    font-family: Monsterrat;
+    font-family: Montserrat;
   color: #000000;
   font-size: 36px;
   font-weight: 400;
@@ -228,7 +228,7 @@ padding-top: 85px;
   background-size: cover; 
 }
 .rowthird p {
-     font-family: Monsterrat;
+     font-family: Montserrat;
     color: #000000;
     font-size: 14px;
     font-weight: 600px;
@@ -319,7 +319,7 @@ a.slidesjs-next.slidesjs-navigation:focus, a.slidesjs-previous.slidesjs-navigati
     text-decoration: none;
 }
 .aboutroom h5 {
-    font-family: Monserrat;
+    font-family: Montserrat;
     color: black;
     font-size: 17px;
     font-weight: bold;
@@ -330,7 +330,7 @@ a.slidesjs-next.slidesjs-navigation:focus, a.slidesjs-previous.slidesjs-navigati
     padding-top: 31px;
 }
 .aboutroom h3 {
-     font-family: Monsterrat;
+     font-family: Montserrat;
     color: black;
     font-size: 19px;
     line-height: 31.68px;
@@ -342,6 +342,7 @@ a.slidesjs-next.slidesjs-navigation:focus, a.slidesjs-previous.slidesjs-navigati
 margin-top: 105px;
 }
 .bottomyellow{
+    font-weight: bold;
   border-bottom: 2px solid #ffeb3b;
   width: 50%;
 }
@@ -364,7 +365,7 @@ a.slidesjs-play.slidesjs-navigation {
     padding-top: 28px;
     color: black;
     font-size: 30px;
-     font-family: Monsterrat;
+     font-family: Montserrat;
     text-transform: uppercase;
 }
 .containerbidhyki{
@@ -379,7 +380,7 @@ a.slidesjs-play.slidesjs-navigation {
     flex-direction: row;
 }
 .container1 h5 {
-     font-family: Monsterrat;
+     font-family: Montserrat;
     width: 13px;
     height: 320px;
     margin: 0px;
@@ -403,7 +404,7 @@ color: #757575;
 font-size: 14px;
 font-weight: 400;
 line-height: 24px;
- font-family: Monsterrat;
+ font-family: Montserrat;
 text-transform: uppercase;
     }
 
@@ -430,7 +431,7 @@ height: 467px;
 background-color: #ffeb3b;
 }
 .lastbox h3{
-font-family: Monsterrat;
+font-family: Montserrat;
 width: 310px;
 height: 50px;
 color: #000000;
@@ -439,7 +440,7 @@ font-weight: 400;
 text-transform: uppercase;
 }
 .lastbox p {
-    font-family: Monsterrat;
+    font-family: Montserrat;
     margin-top: 40px;
     margin-bottom: 0px;
     width: 347px;
@@ -450,7 +451,7 @@ text-transform: uppercase;
     line-height: 25.57px;
 }
 a.contact {
-    font-family: Monsterrat;
+    font-family: Montserrat;
     text-transform: uppercase;
       padding: 0px;
     background: black;
