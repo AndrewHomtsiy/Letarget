@@ -354,7 +354,7 @@ h5.bottomyellow {
     margin-top: 178px;
   }
   .lastbox {
-    padding: 66px 12px 59px 35px;
+   padding: 26px 12px 26px 30px;
     position: relative;
     top: -146px;
     width: 345px;
@@ -363,9 +363,9 @@ h5.bottomyellow {
 }
 .lastbox p {
     font-family: Montserrat;
-    margin-top: 40px;
+    margin-top: 25px;
     margin-bottom: 0px;
-    width: 286px;
+    width: auto;
     height: 158px;
     color: #000000;
     font-size: 14px;
@@ -373,7 +373,7 @@ h5.bottomyellow {
     line-height: 25.57px;
 }
 a.contact{
-  top: 80px;
+      top: 115px;;
 }
 footer .row{
     display: flex;
@@ -621,4 +621,7 @@ label.select {
 }
 #fourth .col-md-8 .container{
   width: 375px !important;
+}
+#last .col:last-child {
+    height: 220px;
 }
