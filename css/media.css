@@ -90,7 +90,7 @@ div#myTopnav {
     padding-left: 220px;
     width: 100%;
 }
-}
+
   @media screen and (max-width: 1240px){
 img.slidesjs-slide {
     margin-top: 43px;
@@ -152,7 +152,7 @@ div#myTopnav {
     padding-left: 220px;
     width: 100%;
 }
-}
+
 @media screen and (max-width: 575px) {
 
     .topnav a:not(:first-child) {display: none;}
@@ -621,5 +621,4 @@ label.select {
 }
 #fourth .col-md-8 .container{
   width: 375px !important;
-}
 }
